@@ -26,8 +26,6 @@ This script represents the DevSecOps pipeline. It performs the following stages:
 ```bash
 git clone https://github.com/AliGouda611/DevSecOps-Automation-Script.git
 cd DevSecOps-Automation-Script
-
-
 ```
 
 
