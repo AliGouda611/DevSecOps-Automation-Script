@@ -23,8 +23,9 @@ This script represents the DevSecOps pipeline. It performs the following stages:
 
 1. Clone this repository to your local machine:
 
-git clone https://github.com/your_username/devsecops-python-pipeline.git
-cd devsecops-python-pipeline
+```bash
+git clone https://github.com/AliGouda611/DevSecOps-Automation-Script.git
+cd DevSecOps-Automation-Script
 
 
 
