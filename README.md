@@ -28,6 +28,8 @@ git clone https://github.com/AliGouda611/DevSecOps-Automation-Script.git
 cd DevSecOps-Automation-Script
 
 
+```
+
 
 
 2. Ensure you have the necessary tools installed:
